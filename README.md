@@ -12,3 +12,7 @@
 - Gmail -- abdullahabir3@gmail.com
 - Linkedin -- https://www.linkedin.com/in/faroque-abdullah-105985126/
 - Website -- https://faroqueabdullah.github.io/
+
+### My Stack
+- Front-End -- React, Vue, Angular, A/B Testing Development.
+- Back-End -- Node JS and Django.
