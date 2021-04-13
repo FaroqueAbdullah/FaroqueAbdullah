@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Faroque
 
 <!--
 **FaroqueAbdullah/FaroqueAbdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... abdullahabir3@gmail.com
 - 😄 Pronouns: ... Uhmmm
-- ⚡ Fun fact: ... Nothing
+- ⚡ Fun fact: ... 
 -->
