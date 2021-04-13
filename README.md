@@ -16,3 +16,5 @@
 ### My Stack
 - Front-End -- React, Vue, Angular, A/B Testing Development.
 - Back-End -- Node JS and Django.
+- DevOps -- Docker, kubernetes.
+- Others -- AWS, Git
