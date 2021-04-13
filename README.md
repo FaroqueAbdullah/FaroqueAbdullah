@@ -1,16 +1,14 @@
-### Hi there 👋 I am Faroque
+# Hi there 👋 I am Faroque
 
-<!--
-**FaroqueAbdullah/FaroqueAbdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full Stack Software Developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... A/B Testing Development 
-- 🌱 I’m currently learning ... Node Js Microservice
+### About
+- 🔭 I’m currently working on ... A/B testing Development
+- 🌱 I’m currently learning ... Everything
 - 👯 I’m looking to collaborate on ... Any Javascript Project
-- 🤔 I’m looking for help with ... Backend Development 
-- 💬 Ask me about ... Anything 
-- 📫 How to reach me: ... abdullahabir3@gmail.com
-- 😄 Pronouns: ... Uhmmm
-- ⚡ Fun fact: ... 
--->
+- 🥅 2021 goals ... Start contribute Open Source Projects
+
+### Contact
+- Gmail -- abdullahabir3@gmail.com
+- Linkedin -- https://www.linkedin.com/in/faroque-abdullah-105985126/
+- Website -- faroqueabdullah.github.io
