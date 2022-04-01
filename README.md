@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ... A/B testing Development
 - 🌱 I’m currently learning ... Everything
 - 👯 I’m looking to collaborate on ... Any Javascript Project
-- 🥅 2021 goals ... Start contribute Open Source Projects
+- 🥅 2022 goals ... Start contribute Open Source Projects
 
 ### Contact
 - Gmail -- abdullahabir3@gmail.com
