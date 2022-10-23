@@ -3,7 +3,7 @@
 ## I'm a Full Stack Software Developer.
 
 ### About
-- 🔭 I’m currently working on ... A/B testing Development
+- 🔭 I’m currently working on ... Next js and Blockchain
 - 🌱 I’m currently learning ... Everything
 - 👯 I’m looking to collaborate on ... Any Javascript Project
 - 🥅 2022 goals ... Start contribute Open Source Projects
