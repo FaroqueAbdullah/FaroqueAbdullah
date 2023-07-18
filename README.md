@@ -1,12 +1,11 @@
-# Hi there 👋 I am Faroque
+# Hi there 👋 I am Faroque Abdullah
 
-## I'm a Full Stack Software Developer.
+## I'm a Stack Software Developer.
 
 ### About
-- 🔭 I’m currently working on ... Next js and Blockchain
-- 🌱 I’m currently learning ... Everything
+- 🔭 I’m currently working on ... Next js
+- 🌱 I’m currently learning ... Devops
 - 👯 I’m looking to collaborate on ... Any Javascript Project
-- 🥅 2022 goals ... Start contribute Open Source Projects
 
 ### Contact
 - Gmail -- abdullahabir3@gmail.com
@@ -14,7 +13,8 @@
 - Website -- https://faroqueabdullah.github.io/
 
 ### My Stack
-- Front-End -- React, Vue, Angular, A/B Testing Development.
-- Back-End -- Node JS and Django.
+- Language -- Javascript, Python, C.
+- Front-End -- React, Svelte, Vue, Angular, Next, SvelteKit, A/B Testing Development.
+- Back-End -- Node JS and FastAPI.
 - DevOps -- Docker, kubernetes.
-- Others -- AWS, Git
+- Others -- AWS, Git.
