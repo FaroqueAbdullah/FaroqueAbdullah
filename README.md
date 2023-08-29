@@ -1,6 +1,6 @@
 # Hi there 👋 I am Faroque Abdullah
 
-## I'm a Stack Software Developer.
+## I'm a Full Stack Software Developer.
 
 ### About
 - 🔭 I’m currently working on ... Next js
