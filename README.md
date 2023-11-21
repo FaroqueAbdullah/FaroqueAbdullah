@@ -2,11 +2,6 @@
 
 ## I'm a Full Stack Software Developer.
 
-### About
-- 🔭 I’m currently working on ... Next js
-- 🌱 I’m currently learning ... Devops
-- 👯 I’m looking to collaborate on ... Any Javascript Project
-
 ### Contact
 - Gmail -- abdullahabir3@gmail.com
 - Linkedin -- https://www.linkedin.com/in/faroque-abdullah-105985126/
