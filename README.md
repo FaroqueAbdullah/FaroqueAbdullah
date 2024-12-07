@@ -1,4 +1,4 @@
-# Hi there! I'm a Full Stack Software Engineer 👋
+# Hi there! I'm Faroque Abdullah. 👋
 
 ## 🚀 About Me
 With 6 years of experience in software development, I'm passionate about creating robust, scalable, and maintainable web applications. I specialize in full-stack development, with a strong focus on writing clean, testable code.
@@ -56,7 +56,7 @@ I leverage both Test-Driven Development (TDD) and Behavior-Driven Development (B
 - Advanced Testing Strategies
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaroqueAbdullah&show_icons=true&theme=radical)
 
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faroque-abdullah-105985126)
